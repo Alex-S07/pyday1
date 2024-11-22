@@ -1,0 +1,6 @@
+name=input("enter your name")
+address=input("enter your address")
+branch=input("enter your branch")
+print("my name is ",name)
+print("my address is ",address)
+print("my branch is ",branch)
