@@ -1,0 +1,5 @@
+name=input('enter your name')
+adress=input('enter your adress')
+age=input('enter your age')
+branch=input('enter your branch')
+semester=input('enter your semester')
