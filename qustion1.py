@@ -1,0 +1,8 @@
+N=input("Enter your name ")
+A=int(input("Enter your age"))
+a=input("Enter your address")
+B=input("Enter your batch ")
+print("Name:",N)
+print("Age:",A)
+print("Address:",a)
+print("Batch:",B)
